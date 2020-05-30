@@ -6,5 +6,5 @@ Follow & support us on Instagram @gowaaaofficial
 
 Find out more about us on www.gowaaa.com !
 
-![image](.\toonshader.png)
+![image](./toonshader.png)
 
